@@ -25,23 +25,27 @@ Currently building a U-Net segmentation model for automated embroidery quality i
 
 ## Featured Projects
 
-<a href="https://github.com/dhruv-bhalodia/nodox-cli">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhruv-bhalodia&repo=nodox-cli&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/dhruv-bhalodia/Model-Version-Control">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhruv-bhalodia&repo=Model-Version-Control&theme=tokyonight&hide_border=true" />
-</a>
+### [nodox-cli](https://github.com/dhruv-bhalodia/nodox-cli) &nbsp; [![npm](https://img.shields.io/npm/v/nodox-cli?style=flat-square&color=CB3837&logo=npm)](https://npmjs.com/package/nodox-cli) [![downloads](https://img.shields.io/npm/dw/nodox-cli?style=flat-square&color=CB3837&label=weekly+downloads)](https://npmjs.com/package/nodox-cli)
 
-<a href="https://github.com/dhruv-bhalodia/Research-Agent">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhruv-bhalodia&repo=Research-Agent&theme=tokyonight&hide_border=true" />
-</a>
+Zero-config API documentation middleware for Express.js. Add one line and your entire API is instantly documented with an interactive UI and live OpenAPI 3.1 export — no annotations, no YAML, no setup.
 
-<br/><br/>
+`Node.js` `TypeScript` `Express.js` `OpenAPI 3.1`
 
-> **nodox-cli** is live on npm — `npm install nodox-cli`
+---
 
-[![npm version](https://img.shields.io/npm/v/nodox-cli?style=flat-square&color=CB3837&logo=npm)](https://npmjs.com/package/nodox-cli)
-[![npm downloads](https://img.shields.io/npm/dw/nodox-cli?style=flat-square&color=CB3837&label=weekly+downloads)](https://npmjs.com/package/nodox-cli)
+### [mlvc — ML Model Version Control](https://github.com/dhruv-bhalodia/Model-Version-Control)
+
+Git-style version control for ML models. Commit model artifacts with metrics, diff versions, rollback with full audit trails, and query your entire version history in plain English.
+
+`Python` `FastAPI` `PostgreSQL` `MinIO` `Kafka` `Evidently AI`
+
+---
+
+### [Multi-Agent Research Assistant](https://github.com/dhruv-bhalodia/Research-Agent)
+
+6-agent LangGraph pipeline that searches the web, scores relevance, fact-checks with NLI, and compiles fully cited research reports — at $0 cost using free-tier APIs.
+
+`Python` `LangGraph` `Gemini 2.5` `BGE Reranker` `DeBERTa NLI`
 
 ---
 
@@ -51,12 +55,6 @@ Currently building a U-Net segmentation model for automated embroidery quality i
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhruv-bhalodia&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-bhalodia&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=dhruv-bhalodia&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -72,8 +70,9 @@ Currently building a U-Net segmentation model for automated embroidery quality i
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-**Backend & Full-Stack**
+**Backend & Infrastructure**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
