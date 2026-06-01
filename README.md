@@ -9,7 +9,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E72B8&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+Trixon+Tech;ML+%2F+AI+%2B+Full-Stack+Engineer;Published+npm+author+%E2%80%94+600%2B+weekly+downloads;LeetCode+1949+%E2%80%94+Top+3.33%25+Globally)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E72B8&center=true&vCenter=true&width=600&lines=Software+Engineer;ML+%2F+AI+%2B+Full-Stack+Engineer;Published+npm+author+%E2%80%94+600%2B+weekly+downloads;LeetCode+1949+%E2%80%94+Top+3.33%25+Globally)](https://git.io/typing-svg)
 
 </div>
 
