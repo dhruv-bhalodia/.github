@@ -49,17 +49,6 @@ Git-style version control for ML models. Commit model artifacts with metrics, di
 
 ---
 
-## Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhruv-bhalodia&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-bhalodia&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ## Tech Stack
 
 **ML / AI**
